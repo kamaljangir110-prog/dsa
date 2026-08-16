@@ -1,25 +1,19 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& arr, int target) {
-         int start =0,end = arr.size()-1,ans = arr.size(),mid;
-        while(start<=end){
-            mid = start+(end- start)/2;
-
-            if(arr[mid]==target)
-            {
-                ans = mid;
-                break;
+    int reverse(int x) {
+        int rem;
+        // int mul=1;
+        int ans = 0;
+        while(x){
+            rem = x%10;
+            x = x/10;
+            if(ans>(INT_MAX/10)||ans<(INT_MIN/10)){
+            return 0;
             }
-            else if(arr[mid]<target)
-            {
-                start = mid+1;
-            }
-            else
-            {
-                ans = mid;
-                end = mid-1;
-            }
+            ans = ans*10+rem;
+            // mul*=10;
         }
         return ans;
+        
     }
 };
