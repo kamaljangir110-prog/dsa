@@ -4,6 +4,7 @@ public:
         int start =0,end = arr.size()-2 ,mid;
         while(start<=end){
             mid = end +(start-end)/2;
+            // mid = start+(end-start)/2;
             if(arr[mid]> arr[mid-1] && arr[mid]>arr[mid+1]){
                  return mid;
 
