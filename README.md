@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kamaljangir110-prog/dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -49,5 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
