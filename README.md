@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kamaljangir110-prog/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kamaljangir110-prog/dsa/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kamaljangir110-prog/dsa/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kamaljangir110-prog/dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kamaljangir110-prog/dsa/tree/master/0258-add-digits) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kamaljangir110-prog/dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
