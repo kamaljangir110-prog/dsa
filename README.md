@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kamaljangir110-prog/dsa/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
