@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamaljangir110-prog/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kamaljangir110-prog/dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kamaljangir110-prog/dsa/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kamaljangir110-prog/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
