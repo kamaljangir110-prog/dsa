@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/kamaljangir110-prog/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kamaljangir110-prog/dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamaljangir110-prog/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/kamaljangir110-prog/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kamaljangir110-prog/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
 |  |
