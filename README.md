@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kamaljangir110-prog/dsa/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kamaljangir110-prog/dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kamaljangir110-prog/dsa/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/kamaljangir110-prog/dsa/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kamaljangir110-prog/dsa/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/kamaljangir110-prog/dsa/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/kamaljangir110-prog/dsa/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kamaljangir110-prog/dsa/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/kamaljangir110-prog/dsa/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/kamaljangir110-prog/dsa/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kamaljangir110-prog/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamaljangir110-prog/dsa/tree/master/2785-sort-vowels-in-a-string) |
